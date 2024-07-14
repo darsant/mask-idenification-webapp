@@ -1,0 +1,62 @@
+body
+{
+    background-color: white;
+    text-align: center;
+}
+
+.div-header
+{
+    background-color: lightgreen;
+    text-align: center;
+    height: 200px;
+}
+
+.div-info
+{
+    background-color: white;
+    height: 75px;
+    width: 500px;
+    border-radius: 20px;
+    margin: auto;
+}
+
+.div-blue
+{
+    background-color: rgb(21, 130, 173);
+    border-radius: 20px;
+    height: 30px;
+}
+
+.object
+{
+    background-color: lightblue;
+    width: 100px;
+    height: 50px;
+    border-radius: 20px;
+    margin: auto;
+}
+
+.accurracy
+{
+    background-color: orange;
+    width: 115px;
+    height: 50px;
+    border-radius: 20px;
+    margin: auto;
+}
+
+p
+{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+canvas
+{
+    margin: center;
+}
+
+.btn-danger
+{
+    margin: center;
+}
